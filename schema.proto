@@ -1,0 +1,7 @@
+/* @Indexed */
+message User {
+
+    /* @Field(store = Store.YES, analyze = Analyze.YES, analyzer = @Analyzer(definition = "whitespaceLower")) */
+    optional string description = 1;
+
+}
