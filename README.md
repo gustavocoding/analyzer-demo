@@ -1,7 +1,7 @@
-Custom Analyzer demo
+ Custom Analyzer demo
 --------------------
 
-This sample project shows how to add a new analyzer to JDG 7.3.x and use it in remote queries over REST. The same queries should also work on Hot Rod.
+ This sample project shows how to add a new analyzer to JDG 7.3.x and use it in remote queries over REST. The same queries should also work on Hot Rod.
 
 
 ## Preparation:
